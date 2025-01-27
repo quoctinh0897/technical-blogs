@@ -1,4 +1,4 @@
-# Welcome to My Technical Blogs
+## Welcome to My Technical Blogs
 This is the homepage of my technical blogs. Here, you'll find:
 
 - **Project updates**: Stay tuned for the latest news.
