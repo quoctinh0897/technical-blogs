@@ -1,4 +1,3 @@
-# Welcome to My Homepage
 
 This is the homepage of my awesome project. Here, you'll find:
 
