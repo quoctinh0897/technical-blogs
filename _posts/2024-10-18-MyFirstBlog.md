@@ -26,3 +26,7 @@ As I progressed in my career and joined larger companies, I had the opportunity 
 ## Purpose of This Blog
 
 The purpose of this blog is to share the lessons I’ve learned, provide helpful tips, and discuss the challenges developers face in the real world. I aim to create practical content that both beginners and experienced developers will find valuable.
+
+I hope with the knowledge in there which you and I can grow together and win together in the career path. Here, we learn together so sometimes I will make a mistake I hope you can tolerate me.
+
+Besides this you can tell me about issues or problems you meet in the experience process you can mail for me to stephen.tran0897@gmail.com. I am pleased to get any feedback or contributions from everyone.
