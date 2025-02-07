@@ -25,8 +25,50 @@ As I progressed in my career and joined larger companies, I had the opportunity 
 
 ## Purpose of This Blog
 
-The purpose of this blog is to share the lessons I’ve learned, provide helpful tips, and discuss the challenges developers face in the real world. I aim to create practical content that both beginners and experienced developers will find valuable.
+The purpose of this blog is to share the lessons I’ve learned, provide helpful tips, and discuss the challenges developers face in the real world. My goal is to create practical content that both beginners and experienced developers will find valuable.
 
-I hope with the knowledge in there which you and I can grow together and win together in the career path. Here, we learn together so sometimes I will make a mistake I hope you can tolerate me.
+I believe that by sharing knowledge, both you and I can grow together and succeed in our career paths. Learning is a continuous journey, and I acknowledge that I may make mistakes along the way. I appreciate your understanding and patience as we learn together.
 
-Besides this you can tell me about issues or problems you meet in the experience process you can mail for me to stephen.tran0897@gmail.com. I am pleased to get any feedback or contributions from everyone.
+If you encounter any issues or have feedback, I encourage you to share them with me. You can reach out via email at [stephen.tran0897@gmail.com](mailto:stephen.tran0897@gmail.com). I welcome any contributions or suggestions from the community.
+
+---
+
+## Topics I’ll Cover
+
+While I may not have all the answers, I am committed to sharing knowledge that is both practical and meaningful. Some topics will cover basic and fundamental concepts, while others may dive deeper into advanced topics based on my experience. I will carefully verify each topic before publishing to ensure accuracy and quality.
+
+### Backend Development
+I will share insights related to backend development, including programming languages like **Go**, **Python**, **Node.js**, and **Java**. Expect discussions on topics such as:
+- Design patterns
+- System architecture and design
+- Coding best practices
+
+### AI Development
+I will explore areas related to artificial intelligence, such as:
+- LLM models
+- Transformers
+- BERT and other NLP models
+
+### Additional Topics
+I may also provide content on:
+- **DevOps**: Deployment strategies, CI/CD pipelines, and containerization
+- **Frontend Development**: When relevant opportunities arise
+- **Mobile Development**: Whenever possible
+
+### Types of Content
+Within each topic, you can expect various formats of content, including:
+- **Tutorials**: Step-by-step guides to help you build projects
+- **Project Walkthroughs**: Real-world examples of solving problems
+- **Debugging Tips**: Practical advice for troubleshooting common issues
+- **Performance Optimization**: Techniques for improving application efficiency
+
+For each article, I will aim to provide detailed explanations, real-world examples, and hands-on practice, followed by conclusions and actionable advice. I look forward to learning and growing alongside you through this blog.
+
+---
+
+## Challenges and Growth
+
+
+
+
+
