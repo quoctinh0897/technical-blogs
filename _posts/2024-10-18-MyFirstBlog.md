@@ -3,7 +3,7 @@ title: "Greetings and Introductions"
 date: 2024-10-18
 ---
 
-## Introduction (Who I Am)
+## Introduction
 
 Hello, my name is Stephen. I'm a backend developer with significant experience in high-performance systems. I created this blog to share my technical skills with others and to improve my writing skills along the way.
 
